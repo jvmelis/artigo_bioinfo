@@ -1,0 +1,2 @@
+ library(rentrez)
+  entrez_db_searchable(db = "OMIM")
